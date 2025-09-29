@@ -47,6 +47,35 @@
 
 ---
 
+## IVI Project 
+
+
+
+<img width="1366" height="767" alt="home" src="https://github.com/user-attachments/assets/f0059de2-b361-4dbc-b125-5cd01c7125ec" />
+
+
+<img width="1366" height="765" alt="vehicle" src="https://github.com/user-attachments/assets/062be486-1954-40b4-85e9-0809724bcb0d" />
+
+
+<img width="1368" height="769" alt="navi" src="https://github.com/user-attachments/assets/b612f18e-b0db-4e00-beb4-9a45ea72c442" />
+
+
+<img width="1366" height="768" alt="cabin" src="https://github.com/user-attachments/assets/431a9cce-bb6a-4f7e-9756-3ebe371f6d39" />
+
+
+<img width="1367" height="768" alt="music" src="https://github.com/user-attachments/assets/41e5bbe9-4ce8-448b-b4a8-34cd812dac7f" />
+
+
+
+<img width="1367" height="765" alt="phone" src="https://github.com/user-attachments/assets/64e2bd6b-b568-4d60-b9f2-95f1cff3f450" />
+
+
+<img width="1366" height="766" alt="call" src="https://github.com/user-attachments/assets/7662ed64-e8e8-4bad-b8e2-e1074e876267" />
+
+
+<img width="1365" height="766" alt="settings" src="https://github.com/user-attachments/assets/2c3bf41e-df9f-44c0-8f97-81ecf68488da" />
+
+
 
 
 
